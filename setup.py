@@ -17,7 +17,7 @@ dependency_links = [
 
 setup(
     name='dotted-name-resolver',
-    version='1.0',
+    version='0.99',
     description='Dotted name resolver (stollen from pyramid.path)',
     author='',
     packages=find_packages(),
